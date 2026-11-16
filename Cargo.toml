@@ -1,0 +1,10 @@
+[package]
+name = "SigmaOS-mint-service-wrapper"
+version = "0.1.0"
+edition = "2021"
+license = "Apache-2.0"
+description = "SigmaOS mint-service-wrapper component"
+
+[lib]
+name = "mint_service_wrapper"
+path = "src/lib.rs"
