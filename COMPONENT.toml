@@ -3,12 +3,12 @@ name = "SigmaOS-mint-service-wrapper"
 tier = 2
 stability = "scaffold"
 language = "rust"
-description = "mint-service-wrapper component"
+description = "Service wrapper for SigmaOS inspired by Linux Mint"
 upstream = []
 
 [contract]
 provides = ["component"]
-depends_on = []
+depends_on = ["SigmaOS-system"]
 
 [maturity]
 status = "Scaffold"
