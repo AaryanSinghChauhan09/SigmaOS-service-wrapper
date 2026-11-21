@@ -1,5 +1,5 @@
 // SPDX-License-Identifier: Apache-2.0
-//! SigmaOS-mint-service-wrapper: mint service wrapper component model.
+//! SigmaOS-service-wrapper: mint service wrapper component model.
 //!
 //! Real implementation: wrappers, events, validation, deterministic storage.
 //! Replaces the placeholder stub.

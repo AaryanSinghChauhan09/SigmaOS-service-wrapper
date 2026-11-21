@@ -1,5 +1,5 @@
 [component]
-name = "SigmaOS-mint-service-wrapper"
+name = "SigmaOS-service-wrapper"
 tier = 2
 stability = "beta"
 language = "rust"

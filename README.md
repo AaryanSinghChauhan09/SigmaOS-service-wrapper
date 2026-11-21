@@ -1,4 +1,4 @@
-# SigmaOS-mint-service-wrapper
+# SigmaOS-service-wrapper
 
 Service wrapper for SigmaOS inspired by Linux Mint
 

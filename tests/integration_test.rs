@@ -1,8 +1,8 @@
-// Integration test for SigmaOS-mint-service-wrapper
+// Integration test for SigmaOS-service-wrapper
 // Verifies the crate builds and links as a dependency.
 #![allow(unused_imports)]
 
-use mint_service_wrapper as _;
+use sigmaos_service_wrapper as _;
 
 #[test]
 fn crate_links_and_runs() {
